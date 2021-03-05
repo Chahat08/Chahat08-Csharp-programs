@@ -3,3 +3,6 @@
 bin
 obj
 *.config
+*.csproj
+*.sln
+Properties
