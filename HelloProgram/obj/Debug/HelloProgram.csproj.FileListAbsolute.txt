@@ -1,0 +1,7 @@
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\bin\Debug\HelloProgram.exe.config
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\bin\Debug\HelloProgram.exe
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\bin\Debug\HelloProgram.pdb
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\obj\Debug\HelloProgram.csprojAssemblyReference.cache
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\obj\Debug\HelloProgram.csproj.CoreCompileInputs.cache
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\obj\Debug\HelloProgram.exe
+C:\Users\CHAHAT KALSI\Desktop\Csharp-programs\HelloProgram\obj\Debug\HelloProgram.pdb
