@@ -10,9 +10,9 @@ namespace SimpleProgram
     {
         static void Main(String[] args)
         {
-            string name = "";
-            int birthYear = 0;
-            int currYear = 0;
+            string name;
+            int birthYear;
+            int currYear;
 
             Console.Write("Enter your name: ");
             name = Console.ReadLine();
