@@ -56,6 +56,11 @@ namespace StudentClass
             else grade = 'X';
         }
 
+        // overriding ToString()
+        public override string ToString()
+        {
+            return "\tname: " + name + "\n\trno: "+ rno +"\n\tmarks: "+marks+"\n\tgrade: "+grade+"\n\tcomments: "+comments;
+        }
     }
     class Program
     {
@@ -68,6 +73,8 @@ namespace StudentClass
             Student s2 = new Student("Kalsi", 64, 72f);
             s2.AutoComment = "";
             s2.PrintResult();
+
+            Console.WriteLine(s1.ToString());
 
             Console.Read();
         }
